@@ -1,0 +1,12 @@
+media/
+sgsf/__pycache__/
+
+user_app/__pycache__/
+user_app/__init__/
+user_app/__init__.py
+user_app/migrations/
+
+semence_app/__pycache__/
+semence_app/__init__/
+semence_app/__init__.py
+semence_app/migrations/
